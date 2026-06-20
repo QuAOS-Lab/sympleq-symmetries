@@ -1,6 +1,6 @@
 # Attention Optimizer for Pauli Symmetries
 
-This project searches for Pauli symmetries of Pauli-Sum Hamiltonians. The corresponding work is 'Arxiv:....'
+This project searches for Pauli symmetries of Pauli-Sum Hamiltonians. The corresponding work is available at https://arxiv.org/abs/2605.30429.
 
 ## Example Usage
 
